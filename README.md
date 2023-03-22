@@ -20,5 +20,6 @@ check GEMFILE
 
 * Deployment instructions
 rails server
+test route : articles/1/comments : posts a comment to the articles model 
 
 * ...
